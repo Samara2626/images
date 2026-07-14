@@ -30,7 +30,7 @@ Hello! My name is **Samara**. I am a third-year student at Ala-Too College in Ky
 
 Responsive educational website created using HTML, CSS, and JavaScript.
 
-![Educational Website](images/website1.png)
+
 
 ---
 
@@ -38,7 +38,7 @@ Responsive educational website created using HTML, CSS, and JavaScript.
 
 Modern business website with responsive design and interactive elements.
 
-![Business Website](images/website2.png)
+
 
 ---
 
@@ -48,7 +48,7 @@ Modern business website with responsive design and interactive elements.
 
 User interface designs created in Figma.
 
-![UI Design](images/design1.png)
+
 
 ---
 
@@ -56,7 +56,7 @@ User interface designs created in Figma.
 
 Posters, banners, and social media designs.
 
-![Graphic Design](images/design2.png)
+
 
 ---
 
@@ -66,7 +66,6 @@ Posters, banners, and social media designs.
 
 An educational game developed in Scratch with animations, sounds, and interactive gameplay.
 
-![Scratch Game](images/game.png)
 
 ---
 
@@ -76,7 +75,7 @@ An educational game developed in Scratch with animations, sounds, and interactiv
 
 Movie search application built with React and Vite.
 
-![Movie Search](images/movie-search.png)
+
 
 ---
 
@@ -84,7 +83,7 @@ Movie search application built with React and Vite.
 
 Authentication system using Node.js, Express.js, SQLite, and JWT.
 
-![Authentication](images/auth.png)
+
 
 ---
 
@@ -92,7 +91,7 @@ Authentication system using Node.js, Express.js, SQLite, and JWT.
 
 Application deployment using Docker and Docker Compose.
 
-![Docker](images/docker.png)
+
 
 ---
 
